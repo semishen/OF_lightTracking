@@ -1,0 +1,28 @@
+<group>
+	<Threshold>160</Threshold>
+	<Mini_Area>20</Mini_Area>
+	<Max_Area>150</Max_Area>
+	<Hue>96</Hue>
+	<Saturation>89</Saturation>
+	<Brightness>255</Brightness>
+	<Alpha>117</Alpha>
+	<Line_Width>1.864</Line_Width>
+<group/>
+<OpenCV>
+		<Threshold>160</Threshold>
+		<Mini_Area>20</Mini_Area>
+		<Max_Area>180</Max_Area>
+	<Start_Frame>103</Start_Frame>
+		<End_Frame>1604</End_Frame>
+	</OpenCV>
+	<Draw_Lines>
+		<Hue>182</Hue>
+		<Saturation>0</Saturation>
+		<Brightness>255</Brightness>
+		<Alpha>255</Alpha>
+		<Line_Width>0.1</Line_Width>
+	</Draw_Lines>
+	<Process_Video>
+		<Use_BW_video>1</Use_BW_video>
+	</Process_Video>
+</group>
